@@ -1,0 +1,2 @@
+proj2: project2.c carreira.c hash.c ligacao.c linked_int.c paragem.c remove.c
+     gcc -O3 -Wall -Wextra -Werror -ansi -pedantic -o proj2 project2.c carreira.c hash.c ligacao.c linked_int.c paragem.c remove.c
